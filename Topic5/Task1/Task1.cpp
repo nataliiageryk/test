@@ -6,7 +6,7 @@ int main()
 
 	std::cout<<"Please enter to integers. First - smaller, secod -biger. \nEnter first value: ";
 	std::cin>>smaller_int;
-	std::cout<<"Enter second value: ";
+	std::cout<<"Enter second value: ___";
 	std::cin>>biger_int;
 
 	int sum_int = 0;
